@@ -1,0 +1,22 @@
+
+.header_label{display:block;font-size: 15px;font-weight: bold;text-transform: uppercase;
+padding:10px;letter-spacing:1px;}
+
+.list_data{margin:0;padding:0;float:right;}
+.list_data li{display:inline-block;padding:10px;}
+.list_data li span{font-size:15px;color:#000;font-weight:bold;text-transform: capitalize;}
+
+.list_data li a{color:#000;font-weight:bold;text-transform: capitalize;letter-spacing: 0.5px;}
+.list_data li a:hover{text-decoration: none;}
+
+.borders{border-bottom:5px solid #000;}
+
+.menu_list{margin:0;padding:0;float:left;}
+.menu_list li{display:inline;border-bottom:1px solid #036;width:100%;float:left;}
+.menu_list li a{display:inline-block;padding:8px;color:#036;font-weight:bold;
+letter-spacing:0.5px;}
+.menu_list li:last-child{border-bottom:none;}
+
+.menu_list li a:hover{text-decoration: none;color:#f00;}
+
+.p_style{font-weight:bold;color:#000;letter-spacing: 0.8px;}
